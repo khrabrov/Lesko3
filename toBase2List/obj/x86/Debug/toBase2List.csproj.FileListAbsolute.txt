@@ -1,0 +1,15 @@
+C:\Documents and Settings\Admin\Рабочий стол\toBase2List\toBase2List\bin\Debug\toBase2List.exe
+C:\Documents and Settings\Admin\Рабочий стол\toBase2List\toBase2List\bin\Debug\toBase2List.pdb
+C:\Documents and Settings\Admin\Рабочий стол\toBase2List\toBase2List\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\toBase2List\toBase2List\obj\x86\Debug\toBase2List.exe
+C:\Documents and Settings\Admin\Рабочий стол\toBase2List\toBase2List\obj\x86\Debug\toBase2List.pdb
+H:\учеба\toBase2List\toBase2List\bin\Debug\toBase2List.exe
+H:\учеба\toBase2List\toBase2List\bin\Debug\toBase2List.pdb
+H:\учеба\toBase2List\toBase2List\obj\x86\Debug\toBase2List.csprojResolveAssemblyReference.cache
+H:\учеба\toBase2List\toBase2List\obj\x86\Debug\toBase2List.exe
+H:\учеба\toBase2List\toBase2List\obj\x86\Debug\toBase2List.pdb
+D:\учеба\toBase2List\toBase2List\obj\x86\Debug\toBase2List.exe
+D:\учеба\toBase2List\toBase2List\obj\x86\Debug\toBase2List.pdb
+D:\учеба\toBase2List\toBase2List\bin\Debug\toBase2List.exe
+D:\учеба\toBase2List\toBase2List\bin\Debug\toBase2List.pdb
+D:\учеба\toBase2List\toBase2List\obj\x86\Debug\ResolveAssemblyReference.cache

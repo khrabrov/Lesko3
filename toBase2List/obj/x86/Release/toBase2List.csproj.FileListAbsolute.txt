@@ -1,0 +1,5 @@
+D:\учеба\toBase2List\toBase2List\bin\Release\toBase2List.exe
+D:\учеба\toBase2List\toBase2List\bin\Release\toBase2List.pdb
+D:\учеба\toBase2List\toBase2List\obj\x86\Release\ResolveAssemblyReference.cache
+D:\учеба\toBase2List\toBase2List\obj\x86\Release\toBase2List.exe
+D:\учеба\toBase2List\toBase2List\obj\x86\Release\toBase2List.pdb
